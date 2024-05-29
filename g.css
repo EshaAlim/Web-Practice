@@ -1,0 +1,30 @@
+h1 {
+    
+    height: 700px;
+padding: 50px;
+    color: rgb(128, 240, 197);
+    background-color: bisque;
+    /* background-image:linear-gradient(rgb(0,0,0,0),rgb(0,0,0,0.1)), url("./Eesha\ Fashion.png"); */
+      background-image:linear-gradient(rgb(231, 47, 47),yellow), url("./Eesha\ Fashion.png");  
+    background-blend-mode: color-burn;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    b
+    /* background-origin: border-box; */
+     background-origin: content-box; 
+    /* background-origin: padding-box; */
+    
+}
+.eesha{
+    border: 5px solid rgb(166, 14, 14);
+    text-decoration: wavy;
+}
+
+    
+    
+
+
+
+
+
